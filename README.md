@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @GEVIC21
+- 👋 Hi, I’m @GEVIC
 - 👀 I’m interested in programming and hacking
 - 🌱 I’m currently learning programming
-- 💞️ I’m looking to collaborate on hacking
+- 💞️ I’m looking to collaborate on programming and challenges.
 - 📫 How to reach me ...
 
 <!---
