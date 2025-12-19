@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @GEVIC
-- 👀 I’m interested in programming and hacking
-- 🌱 I’m currently learning programming
-- 💞️ I’m looking to collaborate on programming and challenges.
-- 📫 How to reach me ...
+- 👋 Hi, I’m @GEVICODEUR
+- 👀 I’m interested in programming building Scalable system
+- 🌱 I’m currently junior dev, Python and Java Nerd.
+- 💞️ I’m looking to collaborate on projects
+- 📫 How to reach me: Linkedin: https://www.linkedin.com/in/ndilbe-douvic-toyoum-ba21b6117/
 
 <!---
 GEVIC21/GEVIC21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
